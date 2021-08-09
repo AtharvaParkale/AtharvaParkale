@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvaparkale" alt="atharvaparkale" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@atharva_parkale" target="blank"><img src="https://img.shields.io/twitter/follow/@atharva_parkale?logo=twitter&style=for-the-badge" alt="@atharva_parkale" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/@atharva_parkale" target="blank"><img src="https://img.shields.io/twitter/follow/@atharva_parkale?logo=twitter&style=for-the-badge" alt="@atharva_parkale" /></a> </p> -->
 
 - 🌱 I’m currently learning **Javascript,React,NodeJS**
 
 - 📫 How to reach me **atharva.parkale@gmail.com**
+
+- 👦 My LinkedIn **linkedin.com/in/atharvaparkale*
 
 - ⚡ Fun fact **Those Fears You Never Get Past. So Sometimes All You Have To Do Is Take A Deep Breath, Hold Them Close, And Hope For The Best.**
 

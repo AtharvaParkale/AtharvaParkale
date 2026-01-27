@@ -1,12 +1,12 @@
 # 💫 About Me:
 Hi, I’m Atharva — a Software Engineer focused on building clean, scalable mobile applications.<br>
-I primarily work with Flutter and Kotlin, and I enjoy designing apps using clean architecture, solid state management, and thoughtful UX.<br><br>
+I primarily work with Flutter and Kotlin, and I enjoy designing apps using clean architecture, solid state management, and thoughtful UX.<br>
 
 I’m currently building <b>BulkBuddy</b> — a fitness-focused calorie & protein tracking app with <b>500+ active users</b>, built end-to-end using Flutter and clean architecture.<br>
 👉 <a href="https://play.google.com/store/apps/details?id=com.dronixapps.bulk_buddy" target="_blank">View BulkBuddy on Play Store</a><br>
-📸 <a href="https://www.instagram.com/bulkbuddy.app/" target="_blank">Follow BulkBuddy on Instagram</a><br><br>
+📸 <a href="https://www.instagram.com/bulkbuddy.app/" target="_blank">Follow BulkBuddy on Instagram</a><br>
 
-I’ve worked on real-world fintech features, built side projects around fitness & productivity, and I’m always curious about how things work under the hood — from app architecture to system behavior.<br><br>
+I’ve worked on real-world fintech features, built side projects around fitness & productivity, and I’m always curious about how things work under the hood — from app architecture to system behavior.<br>
 
 When I’m not coding, you’ll probably find me at the gym, trekking, playing sports, or experimenting with new ideas 🚀
 
